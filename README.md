@@ -1,16 +1,17 @@
-## Hi there 👋
+# Leon Köllerwirth Hlihel
 
-<!--
-**leonkoellerwirth-arch/leonkoellerwirth-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior IT-Manager & Interim Leader · AI Governance & Agentic AI Operating Models · Enterprise Architecture in regulated environments (BaFin/DORA)**
 
-Here are some ideas to get you started:
+I've spent 20+ years building, leading, and orchestrating IT in regulated and critical environments — from greenfield corporate IT (Tönnies Group, 0→7 plants) through enterprise architecture, security and governance responsibility at a BaFin-regulated financial institution (Daimler Mobility AG), to platform governance with production AI agent pipelines (SMA Solar Technology).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today I help organizations make AI agents governable: operating models, risk & control structures (EU AI Act, DORA), and the engineering patterns to match. The repositories below are working artifacts of that practice — governed agent pipelines, evaluator-tested prompts, and audit-first design.
+
+## Featured work
+
+- [**agentic-ai-governance-toolkit**](https://github.com/leonkoellerwirth-arch/agentic-ai-governance-toolkit) — lifecycle models, risk scoring, EU AI Act & DORA checklists, and a working evaluator for AI agents in regulated organizations
+- [**local-agent-pipeline**](https://github.com/leonkoellerwirth-arch/local-agent-pipeline) — a minimal, fully local multi-agent pipeline where auditability and human oversight are first-class features
+- [**razbiram-nlp**](https://github.com/leonkoellerwirth-arch/razbiram-nlp) — Bulgarian NLP content-enrichment engine (morphology, CEFR-style difficulty, glosses), with golden-set evaluated LLM prompts
+
+## Contact
+
+🌐 [leon-koellerwirth.com](https://leon-koellerwirth.com) · 💼 [LinkedIn](https://www.linkedin.com/in/leon-k%C3%B6llerwirth-hlihel-642506197/)
