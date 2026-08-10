@@ -15,4 +15,4 @@ Today I help organizations make AI agents governable: operating models, risk & c
 
 ## Contact
 
-🌐 [leon-koellerwirth.com](https://leon-koellerwirth.com) · 💼 [LinkedIn](https://www.linkedin.com/in/leon-k%C3%B6llerwirth-hlihel-642506197/)
+🌐 [leon-koellerwirth.com](https://leon-koellerwirth.com) · 💼 [LinkedIn](https://www.linkedin.com/in/leon-k%C3%B6llerwirth-642506197/)
