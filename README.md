@@ -1,6 +1,6 @@
 # Leon Köllerwirth Hlihel
 
-**Senior IT-Manager & Interim Leader · AI Governance & Agentic AI Operating Models · Enterprise Architecture in regulated environments (BaFin/DORA)**
+**Leadership and architecture for business-critical systems**
 
 I've spent 20+ years building, leading, and orchestrating IT in regulated and critical environments — from greenfield corporate IT (Tönnies Group, 0→7 plants) through enterprise architecture, security and governance responsibility at a BaFin-regulated financial institution (Daimler Mobility AG), to platform governance with production AI agent pipelines (SMA Solar Technology).
 
@@ -8,6 +8,7 @@ Today I help organizations make AI agents governable: operating models, risk & c
 
 ## The series
 
+- [**agentic-engineering-standard**](https://github.com/leonkoellerwirth-arch/agentic-engineering-standard) — how an engineering organization becomes agent-ready: a vendor-neutral standard with normative text, JSON Schemas, Rego policies and a runnable reference repository. [Overview](https://leon-koellerwirth.com/agentic-engineering)
 - [**agentic-ai-governance-toolkit**](https://github.com/leonkoellerwirth-arch/agentic-ai-governance-toolkit) — how agents become governable: lifecycle models, risk scoring, EU AI Act & DORA checklists, and a working evaluator
 - [**rag-approval-blueprint**](https://github.com/leonkoellerwirth-arch/rag-approval-blueprint) — how AI systems get approved: approval file, control catalogue with test procedures, deletion evidence, and a worked approval run (DORA/MaRisk)
 - [**platform-decision-kit**](https://github.com/leonkoellerwirth-arch/platform-decision-kit) — how platform decisions get made: a triage & discovery instrument for brownfield systems — claims tagged as hypotheses, deliberately no recommendation. [Try it in the browser](https://leon-koellerwirth.com/systemarchitecture) — runs fully local.
