@@ -1,10 +1,14 @@
-# Leon Köllerwirth Hlihel
+# Engineering & Architecture
 
-**Leadership and architecture for business-critical systems**
+**Agentic Engineering · Software Architecture · AI Governance**
 
-I've spent 20+ years building, leading, and orchestrating IT in regulated and critical environments — from greenfield corporate IT (Tönnies Group, 0→7 plants) through enterprise architecture, security and governance responsibility at a BaFin-regulated financial institution (Daimler Mobility AG), to platform governance with production AI agent pipelines (SMA Solar Technology).
+This GitHub profile contains my own engineering projects, reference implementations, standards and tools.
 
-Today I help organizations make AI agents governable: operating models, risk & control structures (EU AI Act, DORA), and the engineering patterns to match. The repositories below are working artifacts of that practice — one thread runs through all of them: **verification instead of trust.**
+My focus is on building reliable, auditable systems. That includes controlled tool access, explicit permissions, reproducible verification, human approval steps and traceable architecture decisions.
+
+The repositories below cover agentic engineering, AI governance, RAG approval workflows, local agent pipelines and architecture decision tools. They document independent technical work, not deliverables from former client engagements.
+
+**Verification over claims.**
 
 ## The series
 
